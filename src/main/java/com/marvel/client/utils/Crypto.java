@@ -9,8 +9,8 @@ import org.springframework.beans.factory.annotation.Value;
 
 public class Crypto {
 	
-	@Value("${private.apikey}")
-	private static String apikeyPriv;
+	//@Value("${private.apikey}")
+	private static String apikeyPriv ="cbe6d975c99a3102967384e7a7b58312f1f8d6d0";
 	
 	private static final Charset UTF_8 = StandardCharsets.UTF_8;
 	

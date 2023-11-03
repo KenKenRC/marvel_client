@@ -8,7 +8,7 @@
 		<version>3.1.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mavel</groupId>
+	<groupId>com.marvel</groupId>
 	<artifactId>clientM</artifactId>
 	<version>1.0.0</version>
 	<name>clientM</name>
@@ -49,17 +49,6 @@
             <groupId>org.mock-server</groupId>
             <artifactId>mockserver-netty</artifactId>
             <version>5.11.1</version>
-        </dependency>
-
-        <dependency>
-        	<groupId>mx.com.ejercicio.cliente.rest</groupId>
-        	<artifactId>clienteRest</artifactId>
-        	<version>1.0.0</version>
-        </dependency>
-        <dependency>
-        	<groupId>com.api.rest</groupId>
-        	<artifactId>marvel</artifactId>
-        	<version>1.0.0</version>
         </dependency>
 	</dependencies>
 
